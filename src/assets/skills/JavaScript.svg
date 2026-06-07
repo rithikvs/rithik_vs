@@ -1,0 +1,6 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="32" fill="#FFF8E1"/>
+  <path d="M72 44H108C119.046 44 128 52.954 128 64V116C128 127.046 119.046 136 108 136H72C60.9543 136 52 127.046 52 116V64C52 52.9543 60.9543 44 72 44Z" fill="#F7DF1E" stroke="#E5C92B" stroke-width="6"/>
+  <text x="90" y="108" text-anchor="middle" fill="#000000" font-size="52" font-weight="800" font-family="Arial, sans-serif">JS</text>
+  <text x="90" y="160" text-anchor="middle" fill="#1F2937" font-size="24" font-weight="700" font-family="Arial, sans-serif">JavaScript</text>
+</svg>

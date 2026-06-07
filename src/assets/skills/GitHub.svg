@@ -1,0 +1,6 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="32" fill="#F3F4F6"/>
+  <circle cx="90" cy="90" r="58" fill="#111827"/>
+  <path d="M71 124C71 124 66 122 64 116C62 110 61 98 63 90C50 86 41 74 40 62C40 49 47 44 47 44C54 42 62 48 62 48C68 50 73 56 74 60C82 56 92 53 102 53C112 53 123 56 129 60C129 60 136 54 143 53C143 53 150 49 157 50C157 50 164 55 164 62C163 74 153 86 140 90C142 98 141 110 139 116C137 122 132 124 132 124C132 124 120 128 102 128C84 128 71 124 71 124Z" fill="#FFFFFF"/>
+  <text x="90" y="160" text-anchor="middle" fill="#111827" font-size="24" font-weight="700" font-family="Arial, sans-serif">GitHub</text>
+</svg>

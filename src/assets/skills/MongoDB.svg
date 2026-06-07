@@ -1,0 +1,6 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="32" fill="#EBFFF7"/>
+  <path d="M90 40C70 40 56 58 56 80C56 104 74 136 90 158C106 136 124 104 124 80C124 58 110 40 90 40Z" fill="#46A04A" stroke="#286D2F" stroke-width="6"/>
+  <path d="M90 146C86 132 78 120 78 100C78 87 82 76 90 76C98 76 102 87 102 100C102 120 94 132 90 146Z" fill="#6BDEA2"/>
+  <text x="90" y="160" text-anchor="middle" fill="#1F2937" font-size="24" font-weight="700" font-family="Arial, sans-serif">Mongo</text>
+</svg>

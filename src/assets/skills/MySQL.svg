@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="32" fill="#F6FBFF"/>
+  <path d="M90 48C80 40 66 42 54 56C44 68 46 84 56 98C70 118 90 134 90 134C90 134 110 118 124 98C134 84 136 68 126 56C114 42 100 40 90 48Z" fill="#00758F"/>
+  <path d="M90 64C80 52 66 54 56 66" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 88C82 78 68 80 60 90" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <text x="90" y="160" text-anchor="middle" fill="#0F172A" font-size="24" font-weight="700" font-family="Arial, sans-serif">MySQL</text>
+</svg>

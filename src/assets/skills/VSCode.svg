@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="32" fill="#E5F0FF"/>
+  <path d="M54 48L96 72L138 48V132L96 108L54 132V48Z" fill="#007ACC" stroke="#005A9E" stroke-width="6"/>
+  <path d="M96 72L138 48" stroke="#B3D4FF" stroke-width="6"/>
+  <path d="M96 108L138 132" stroke="#B3D4FF" stroke-width="6"/>
+  <text x="90" y="160" text-anchor="middle" fill="#0F172A" font-size="24" font-weight="700" font-family="Arial, sans-serif">VS Code</text>
+</svg>
