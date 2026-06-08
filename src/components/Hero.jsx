@@ -171,10 +171,11 @@ const Hero = () => {
             </a>
             
             {/* Resume Download Button */}
-            <a 
-              href="/resume.pdf"
-              download
+            <a
+              href="/Resume.pdf"
+              download="Resume.pdf"
               className="px-6 py-3 md:px-8 md:py-3 text-sm md:text-base rounded-full bg-gradient-to-r from-orange-500 to-orange-400 text-white font-bold hover:shadow-[0_20px_50px_rgba(249,115,22,0.35)] transition-all duration-300 transform hover:-translate-y-0.5 inline-block text-center"
+              aria-label="Download Resume"
             >
               Download Resume
             </a>
